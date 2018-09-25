@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "latest"
+    "express": "^4.16.3",
+    "mongodb": "latest",
+    "mongoose": "^5.2.17"
   }
 }
